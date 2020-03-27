@@ -12,13 +12,13 @@ ui/declaring-layout.html
 
 <https://developer.android.google.cn/guide/topics/ui/layout/linear?>
 
-![1](./images1/1.png)
+![1](./images2/1.png)
 
 #### 实验步骤：
 
 - 文件结构
 
-![2](./images1/2.png) 
+![2](./images2/2.png) 
 
 - strings.xml
 
@@ -231,7 +231,7 @@ ui/declaring-layout.html
 
 - Preview
 
-![3](./images1/3.png) 
+![3](./images2/3.png) 
 
  
 
@@ -239,7 +239,7 @@ ui/declaring-layout.html
 
 <https://developer.android.google.cn/training/constraint-layout?>
 
-![4](./images1/4.png)
+![4](./images2/4.png)
 
 #### 实验步骤： 
 
@@ -363,13 +363,13 @@ ui/declaring-layout.html
 
 - Preview
 
-![5](./images1/5.png) 
+![5](./images2/5.png) 
 
  
 
 ## 四、利用表格布局实现如下界面：
 
-![6](./images1/6.png)
+![6](./images2/6.png)
 
 #### 实验步骤： 
 
@@ -547,6 +547,6 @@ ui/declaring-layout.html
 
 - Preview
 
-![7](./images1/7.png) 
+![7](./images2/7.png) 
 
  
